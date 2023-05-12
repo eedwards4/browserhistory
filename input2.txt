@@ -1,0 +1,4 @@
+BrowserHistory Leetcode.com visit Google.com visit Facebook.com  browseUntil 15 visit Youtube.com visit Sonoma.edu visit Ebay.com browseUntil 10 visit Twitter.com endOfHistory
+BrowserHistory Adidas.com visit Facebook.com browseUntil 15 visit Youtube.com browseUntil 5 visit Mercari.com visit Ebay.com browseUntil 10 visit Twitter.com endOfHistory
+BrowserHistory Google.com visit Netflix visit DisneyPlus.com browseUntil 5 visit RateMyProfessor.com browseUntil 3 visit gitHub.com endOfHistory
+BrowserHistory Canvas.sonoma.edu browseUntil 10 visit AliExpress.com browseUntil 5 visit Booking.com visit Amazon.com browseUntil 7 visit Nike.com endOfHistory

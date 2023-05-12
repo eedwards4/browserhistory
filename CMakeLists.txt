@@ -3,4 +3,4 @@ project(browserhistory)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(browserhistory main.cpp)
+add_executable(browserhistory main.cpp CommonLib.cpp CommonLib.h)

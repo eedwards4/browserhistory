@@ -1,0 +1,2 @@
+BrowserHistory Leetcode.com visit Google.com visit Facebook.com  browseUntil 15 visit Youtube.com visit Sonoma.edu visit Ebay.com browseUntil 10 visit Twitter.com endOfHistory
+BrowserHistory Adidas.com visit Facebook.com browseUntil 15 visit Youtube.com browseUntil 5 visit Mercari.com visit Ebay.com browseUntil 10 visit Twitter.com endOfHistory

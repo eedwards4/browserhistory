@@ -1,0 +1,17 @@
+------ HISTORY -------
+Twitter.com 12:52:49
+Ebay.com 12:52:39
+Sonoma.edu 12:52:39
+Youtube.com 12:52:39
+Facebook.com 12:52:24
+Google.com 12:52:24
+Leetcode.com 12:52:24
+------   END   -------
+------ HISTORY -------
+Twitter.com 12:53:19
+Ebay.com 12:53:9
+Mercari.com 12:53:9
+Youtube.com 12:53:4
+Facebook.com 12:52:49
+Adidas.com 12:52:49
+------   END   -------

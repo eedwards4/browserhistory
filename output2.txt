@@ -1,0 +1,31 @@
+------ HISTORY -------
+Twitter.com 12:55:9
+Ebay.com 12:54:59
+Sonoma.edu 12:54:59
+Youtube.com 12:54:59
+Facebook.com 12:54:44
+Google.com 12:54:44
+Leetcode.com 12:54:44
+------   END   -------
+------ HISTORY -------
+Twitter.com 12:55:39
+Ebay.com 12:55:29
+Mercari.com 12:55:29
+Youtube.com 12:55:24
+Facebook.com 12:55:9
+Adidas.com 12:55:9
+------   END   -------
+------ HISTORY -------
+gitHub.com 12:55:47
+RateMyProfessor.com 12:55:44
+DisneyPlus.com 12:55:39
+Netflix 12:55:39
+Google.com 12:55:39
+------   END   -------
+------ HISTORY -------
+Nike.com 12:56:9
+Amazon.com 12:56:2
+Booking.com 12:56:2
+AliExpress.com 12:55:57
+Canvas.sonoma.edu 12:55:47
+------   END   -------
